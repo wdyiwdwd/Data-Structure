@@ -1,0 +1,13 @@
+﻿生成启动时间为 2016/11/12 11:09:53。
+     1>项目“C:\Users\DELL\Desktop\homework\linerList\linerList\linerList.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _SCL_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt homework_3_1.cpp
+         homework_3_1.cpp
+       Link:
+         D:\VS\2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DELL\Desktop\homework\linerList\Debug\linerList.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DELL\Desktop\homework\linerList\Debug\linerList.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DELL\Desktop\homework\linerList\Debug\linerList.lib" /MACHINE:X86 Debug\homework_3_1.obj
+         linerList.vcxproj -> C:\Users\DELL\Desktop\homework\linerList\Debug\linerList.exe
+     1>已完成生成项目“C:\Users\DELL\Desktop\homework\linerList\linerList\linerList.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.19
